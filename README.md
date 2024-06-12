@@ -17,6 +17,7 @@ master-master
 
 # Задание_2
 Master
+
 my.cfg:
 
 ![1](https://github.com/Aid1986/Replication-and-scaling/blob/main/1.png)
