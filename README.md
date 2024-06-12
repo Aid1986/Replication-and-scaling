@@ -27,6 +27,7 @@ status:
 ![2](https://github.com/Aid1986/Replication-and-scaling/blob/main/2.png)
 
 Slave
+
 my.cfg
 
 
